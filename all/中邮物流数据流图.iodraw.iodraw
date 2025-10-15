@@ -43,8 +43,8 @@
         <mxCell id="Hb48WhMeeJjErS0YwY5r-15" value="上游考核/异常信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hb48WhMeeJjErS0YwY5r-16" value="RPA同步/数据处理" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="380" y="225" width="100" height="50" as="geometry" />
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-16" value="中邮物流运费核算平台" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="540" y="215" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
