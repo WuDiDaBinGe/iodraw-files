@@ -77,7 +77,10 @@
           <mxGeometry x="310" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hb48WhMeeJjErS0YwY5r-27" value="处理后的对账单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="120" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-28" value="处理后的对账单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
