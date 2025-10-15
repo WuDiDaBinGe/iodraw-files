@@ -37,8 +37,11 @@
         <mxCell id="Hb48WhMeeJjErS0YwY5r-13" value="油料、路桥，价格等信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hb48WhMeeJjErS0YwY5r-14" value="油料、路桥，价格等信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-14" value="对账单信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-15" value="油料、路桥，价格等信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
