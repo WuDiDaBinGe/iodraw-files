@@ -17,7 +17,7 @@
           <mxGeometry x="140" y="215" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Hb48WhMeeJjErS0YwY5r-13" value="油料、路桥，价格等信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="170" width="80" height="30" as="geometry" />
+          <mxGeometry x="210" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hb48WhMeeJjErS0YwY5r-14" value="对账单信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="80" height="30" as="geometry" />
@@ -38,6 +38,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="340" as="sourcePoint" />
             <mxPoint x="330" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Hb48WhMeeJjErS0YwY5r-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hb48WhMeeJjErS0YwY5r-2" target="Hb48WhMeeJjErS0YwY5r-16">
