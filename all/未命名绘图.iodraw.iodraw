@@ -7,7 +7,7 @@
         <mxCell id="Hb48WhMeeJjErS0YwY5r-1" value="车管系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hb48WhMeeJjErS0YwY5r-2" value="车管系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-2" value="运输集中管控系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
