@@ -94,6 +94,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-30" value="业务数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
