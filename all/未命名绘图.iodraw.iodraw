@@ -10,6 +10,9 @@
         <mxCell id="Hb48WhMeeJjErS0YwY5r-2" value="运输集中管控系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-3" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
