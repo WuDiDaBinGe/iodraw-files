@@ -34,6 +34,9 @@
         <mxCell id="Hb48WhMeeJjErS0YwY5r-11" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="400" y="215" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Hb48WhMeeJjErS0YwY5r-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
