@@ -1,0 +1,361 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="KaNSQBrDk0EJ6xuJA4tX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="182.5" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="存在" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="242.08" y="460" as="sourcePoint" />
+            <mxPoint x="242.08" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-11" target="KaNSQBrDk0EJ6xuJA4tX-14" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="360" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-1" target="KaNSQBrDk0EJ6xuJA4tX-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-1" value="输入邮路计划起点、串点、终到省、之前经转省际中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="100" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="170" as="sourcePoint" />
+            <mxPoint x="810" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-7" value="计算二干减少价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-8" target="KaNSQBrDk0EJ6xuJA4tX-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-8" value="查找起点-省际中心减少体积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="182.5" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-9" target="KaNSQBrDk0EJ6xuJA4tX-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-9" value="根据体积计算下降吨位等级以及吨位比例差额" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="188.75" y="240" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-11" value="找邮路找属性&lt;b&gt;往返、&lt;/b&gt;&lt;div&gt;&lt;b&gt;吨位为12t&lt;/b&gt;的合同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="161.25" y="380" width="162.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-13" target="KaNSQBrDk0EJ6xuJA4tX-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-13" value="根据吨位比例差额和合同价格（合同平均价格）计算&lt;font color=&quot;#ff3333&quot;&gt;减少金额&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="188.75" y="500" width="107.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-14" target="KaNSQBrDk0EJ6xuJA4tX-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-14" value="使用二干20t的平均价格*里程作为合同价格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="399.06" width="100" height="41.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-15" target="KaNSQBrDk0EJ6xuJA4tX-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-15" value="根据站序（起点-省际中心）寻找邮路一组往返邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="188.75" y="310" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-21" value="存在" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="620.83" y="460" as="sourcePoint" />
+            <mxPoint x="620.83" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-22" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-27" target="KaNSQBrDk0EJ6xuJA4tX-30" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="738.75" y="410" as="sourcePoint" />
+            <mxPoint x="758.75" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-24" target="KaNSQBrDk0EJ6xuJA4tX-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-24" value="查找串点-省际中心减少体积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="561.25" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-26" target="KaNSQBrDk0EJ6xuJA4tX-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-26" value="根据体积计算下降吨位等级以及吨位比例差额" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="567.5" y="240" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-27" value="找邮路找属性&lt;b&gt;往返、&lt;/b&gt;&lt;div&gt;&lt;b&gt;吨位为12t&lt;/b&gt;的合同&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="380" width="162.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-28" target="KaNSQBrDk0EJ6xuJA4tX-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-28" value="根据吨位比例差额和合同价格（合同平均价格）计算&lt;font color=&quot;#ff3333&quot;&gt;减少金额&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="567.5" y="500" width="107.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-30" target="KaNSQBrDk0EJ6xuJA4tX-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-30" value="使用二干20t的平均价格*里程作为合同价格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="768.75" y="399.06" width="100" height="41.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-32" target="KaNSQBrDk0EJ6xuJA4tX-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-32" value="根据站序（起点-省际中心）寻找邮路一组往返邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="567.5" y="310" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-34" value="两个价格相加" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="386.25" y="585" width="93.75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="14" y="660" as="sourcePoint" />
+            <mxPoint x="814" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-38" value="计算一干减少价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="700" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-39" target="KaNSQBrDk0EJ6xuJA4tX-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-39" value="根据省际中心、终到省查找邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="146.25" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-40" target="KaNSQBrDk0EJ6xuJA4tX-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-47" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KaNSQBrDk0EJ6xuJA4tX-46" vertex="1" connectable="0">
+          <mxGeometry x="-0.2733" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-40" target="KaNSQBrDk0EJ6xuJA4tX-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-40" value="能找到邮路" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="740" width="132.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-42" value="程序报错" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="335" y="744.0699999999999" width="100" height="41.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-44" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-40" target="KaNSQBrDk0EJ6xuJA4tX-42" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="319" y="420" as="sourcePoint" />
+            <mxPoint x="385" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-45" target="KaNSQBrDk0EJ6xuJA4tX-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-45" value="选择业务量最大的一条邮路作为预估邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="156.25" y="840" width="98.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-48" value="寻找预估邮路：单程、30t的合同信息" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="920" width="132.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-50" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-48" target="KaNSQBrDk0EJ6xuJA4tX-51" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="283" y="775" as="sourcePoint" />
+            <mxPoint x="365" y="945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-51" value="程序报错" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="335" y="924.06" width="100" height="41.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-52" value="&lt;font color=&quot;#ff0000&quot;&gt;一干减少的金额&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="156.25" y="1010" width="100" height="41.87" as="geometry" />
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-53" value="存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KaNSQBrDk0EJ6xuJA4tX-48" target="KaNSQBrDk0EJ6xuJA4tX-52" edge="1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="283" y="955" as="sourcePoint" />
+            <mxPoint x="345" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1120" as="sourcePoint" />
+            <mxPoint x="470" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KaNSQBrDk0EJ6xuJA4tX-55" value="计算一干串行邮路价格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="660" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-0" target="KwOL9RyfWHbpNipeWM0L-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-0" target="JiOrtiYTriGprMpAaXlW-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-0" target="JiOrtiYTriGprMpAaXlW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-0" value="输入起始节点、串点、终到结点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-2" target="KwOL9RyfWHbpNipeWM0L-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-2" value="找起始节点-串点的邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="686.25" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-4" target="KwOL9RyfWHbpNipeWM0L-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KwOL9RyfWHbpNipeWM0L-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.4" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-4" target="JiOrtiYTriGprMpAaXlW-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-29" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JiOrtiYTriGprMpAaXlW-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.392" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-4" value="是否找到" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="700" y="820" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KwOL9RyfWHbpNipeWM0L-6" target="JiOrtiYTriGprMpAaXlW-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KwOL9RyfWHbpNipeWM0L-6" value="获取邮路里程t" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="686.25" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-0" target="JiOrtiYTriGprMpAaXlW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-0" value="高德API-POI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="886.25" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-2" target="KwOL9RyfWHbpNipeWM0L-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-2" target="JiOrtiYTriGprMpAaXlW-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-2" value="高德API-驾车规划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="886.25" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-7" target="JiOrtiYTriGprMpAaXlW-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-7" value="找串点-终点的邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1046.57" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-9" target="JiOrtiYTriGprMpAaXlW-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JiOrtiYTriGprMpAaXlW-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.0823" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-9" target="JiOrtiYTriGprMpAaXlW-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1241" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-30" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JiOrtiYTriGprMpAaXlW-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.2463" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-9" value="是否找到" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1060" y="750" width="93.13" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-11" target="JiOrtiYTriGprMpAaXlW-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-11" value="获取邮路里程t1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1046.57" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-16" target="JiOrtiYTriGprMpAaXlW-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-16" value="高德API-POI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1241" y="752.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-17" target="JiOrtiYTriGprMpAaXlW-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-17" value="高德API-驾车规划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1241" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-21" target="JiOrtiYTriGprMpAaXlW-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-21" value="找起始节点-终点的邮路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="490" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-24" target="JiOrtiYTriGprMpAaXlW-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JiOrtiYTriGprMpAaXlW-27" vertex="1" connectable="0">
+          <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-24" target="JiOrtiYTriGprMpAaXlW-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JiOrtiYTriGprMpAaXlW-34" vertex="1" connectable="0">
+          <mxGeometry x="-0.0476" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-24" value="是否找到" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="805" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-26" value="获取其吨公里单价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="460" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-33" target="JiOrtiYTriGprMpAaXlW-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-33" value="使用全省一干平均价格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="970" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JiOrtiYTriGprMpAaXlW-37" target="JiOrtiYTriGprMpAaXlW-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-37" value="获取邮路总里程t1+t2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="965.9300000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JiOrtiYTriGprMpAaXlW-44" value="新邮路价格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="730" y="1070" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
